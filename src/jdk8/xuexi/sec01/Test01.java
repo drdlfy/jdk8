@@ -13,10 +13,6 @@ public class Test01 {
 		}
 		Instant end=Instant.now();
 		System.out.println( Duration.between(start, end).toMillis());
-		System.out.println("ok");
-		System.out.println("ok2");
-		System.out.println("88888888888888888888888");
-		System.out.println("6666666666666666");
 	}
 
 }
