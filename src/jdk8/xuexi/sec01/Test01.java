@@ -16,6 +16,7 @@ public class Test01 {
 		System.out.println("ok");
 		System.out.println("ok2");
 		System.out.println("88888888888888888888888");
+		System.out.println("6666666666666666");
 	}
 
 }
