@@ -15,7 +15,7 @@ public class Test01 {
 		System.out.println( Duration.between(start, end).toMillis());
 		System.out.println("ok");
 		System.out.println("ok2");
-		System.out.println("local");
+		System.out.println("88888888888888888888888");
 	}
 
 }
